@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act of Parliament for erecting a bank in Scotland Edinburgh, July 17, 1695.</title>
+            <author>Scotland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58575</idno>
+            <idno type="STC">Wing S1128</idno>
+            <idno type="STC">ESTC R232205</idno>
+            <idno type="EEBO-CITATION">13662464</idno>
+            <idno type="OCLC">ocm 13662464</idno>
+            <idno type="VID">101128</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58575)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101128)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1047:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act of Parliament for erecting a bank in Scotland Edinburgh, July 17, 1695.</title>
+                  <author>Scotland.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bank of Scotland.</term>
+               <term>Banks and banking --  Early works to 1800.</term>
+               <term>Banking law --  Scotland.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Act_of_Parliament">
+            <pb n="1" facs="tcp:101128:1"/>
+            <head>ACT OF PARLIAMENT FOR <hi>Erecting a Bank in</hi> SCOTLAND.</head>
+            <opener>
+               <dateline>EDINBURGH, <date>July 17. 1695.</date>
+               </dateline>
+            </opener>
+            <p>OUR SOVEREIGN LORD conſidering, how uſeful a publick Bank may be in this Kingdom, according to the Cuſtom of other Kingdoms and States; and that the ſame can only be beſt ſet up and managed, by Perſons in Company, with a joint Stock, ſufficiently endued with theſe Powers and Authorities, and Liberties, neceſſary and uſual in ſuch Caſes; <hi>Hath therefore allowed,</hi> and with Advice and Conſent of the Eſtates of Par<g ref="char:EOLhyphen"/>liament, <hi>Allows</hi> a joint Stock, amounting to the Sum of <hi>Twelve hundred thouſand Pounds Money,</hi> to be raiſed by the Company hereby eſtabliſhed, for the carrying on and manag<g ref="char:EOLhyphen"/>ing of a publick Bank. <hi>And further Statutes and Ordains,</hi> with Advice foreſaid, That the Perſons under-named, <hi>viz.</hi> Mr. <hi>William Areskine,</hi> Son to the Lord <hi>Cardroſs,</hi> Sir <hi>John Swinton</hi> of that Ilk, Sir <hi>Robert Dickſon</hi> of <hi>Sornebeg,</hi> Mr. <hi>George Clark</hi> Junior, and Mr. <hi>John Wat<g ref="char:EOLhyphen"/>ſon,</hi> Merchants in <hi>Edinburgh,</hi> Mr. <hi>James Fowlls,</hi> Mr.
+<pb n="2" facs="tcp:101128:2"/>
+               <hi>John Holland,</hi> Mr. <hi>David Nairn,</hi> Mr. <hi>Walter Stewart,</hi> Mr. <hi>Hugh Frazer,</hi> Mr. <hi>Thomas Couts,</hi> and Mr. <hi>Thomas Deans,</hi> Merchants in <hi>London,</hi> or any Three of them: And in caſe of the Deceaſe of any of them, the Perſons to be cho<g ref="char:EOLhyphen"/>ſen by the Survivers, ſhall have Power to appoint a Book, for Subſcriptions of Perſons, either Natives or Foreigners, who ſhall be willing to ſubſcribe and pay in to the ſaid joint Stock; which Subſcriptions, the foreſaids Perſons, or their <hi>Quorum,</hi> are hereby authoriſed to receive in the foreſaid Book, which ſhall ly open every <hi>Tueſday</hi> or <hi>Friday,</hi> from Nine to Twelve in the Forenoon, and from Three to Six in the Af<g ref="char:EOLhyphen"/>ternoon, betwixt the firſt Day of <hi>November</hi> next, and the firſt Day of <hi>January</hi> next following, in the publick Hall or Chamber to be appointed in the City of <hi>Edinburgh;</hi> and therein all Perſons ſhall have Liberty to ſubſcribe, for ſuch Sums of Money, as they ſhall think fit to adventure in the ſaid joint Stock, one thouſand Pounds <hi>Scots</hi> being the loweſt Sum, and twenty thouſand Pounds <hi>Scots</hi> the higheſt; and the two third Parts of the ſaid Stocks, belonging always to Perſons reſiding in <hi>Scotland. Likeas,</hi> each and every Per<g ref="char:EOLhyphen"/>ſon, at the Time of his ſubſcribing, ſhall pay into the Hands of the forenamed Perſons, or any Three of them, Ten of the Hundred, of the Sums ſet down in their reſpective Subſcrip<g ref="char:EOLhyphen"/>tions, towards the carrying on the Bank. And all and every the Perſons ſubſcribing, and paying to the ſaid Stock, as aforeſaid, ſhall be, and hereby declared, to be one Body corporate and politick, by the Name of <hi>The Governour and Company of the Bank of</hi> Scotland; under which Name, they ſhall have perpetual Succeſſion, and ſhall have a common Seal: And their Succeſſors, by the Name foreſaid, ſhall be able and capable to purchaſe and enjoy; as alſo to give, grant, alienate, and diſpoſe of Lands, Tenements, and all other Heritage; as likewiſe of all Sums of Money, and other moveable Goods and Gear whatſoever: And further, to do and execute all other Things, which any other Company or Body corporate, can or may lawfully do or execute; and that as amply and fully, as if the ſeveral Matters and Things, were particularly
+<pb n="3" facs="tcp:101128:2"/>ſet down in this Act. <hi>And</hi> for the better ordering and ma<g ref="char:EOLhyphen"/>naging of the Affairs of the ſaid Bank, it is hereby further <hi>Sta<g ref="char:EOLhyphen"/>tute and Ordained,</hi> That there ſhall be for ever a Governor, Deputy-Governor, and Twenty four Directors, to be elected and choſen, as hereafter is appointed, who, or any ſeven of them, (hereby declared to be their <hi>Quorum,</hi>) ſhall have the Management and Direction of the ſaid Bank; which Perſons, <hi>viz.</hi> Governor, Deputy-Governor, and Twenty four Direct<g ref="char:EOLhyphen"/>ors, are to be choſen in this Manner, <hi>viz.</hi> That within the three Months after the foreſaid Subſcriptions are ended, the Perſon particularly above-named, or any Two of them, ſhall appoint a certain Day, and make due Intimation of the ſame, that ſuch and ſo many of the Adventurers, and none other, as ſhall each of them have ſubſcribed for one thouſand Pounds Money or upwards, in the ſaid Book of the joint Stock, may elect and chooſe by Majority of Votes, which are to be given, one Vote for every thouſand Pounds Share in the Stock, a fit Perſon of the Subſcribers, who hath ſubſcribed for himſelf, at leaſt for eight thouſand Pounds, to be Gover<g ref="char:EOLhyphen"/>nor of the ſaid Bank; and another fit Perſon of the Subſcri<g ref="char:EOLhyphen"/>bers, who ſhall have ſubſcribed for himſelf, at leaſt for ſix thouſand Pounds, to be Deputy-Governor of the ſaid Bank; and alſo twenty four others, fit Perſons, who ſhall have ſub<g ref="char:EOLhyphen"/>ſcribed each of them for himſelf, at leaſt for three thouſand Pounds in the ſaid joint Stock, to be Directors of the ſaid Bank; which Governour, Deputy-Governor and Directors, are to continue in their reſpective Offices, until the next Election of their Succeſſors; which next Election ſhall be made within thirty Days, after the Expiration of a whole Year from the former Election, by the Majority of the Votes of the Mem<g ref="char:EOLhyphen"/>bers, who are to be qualified, and their Votes reckoned in Manner above-mentioned: And ſo forth the ſaid Governor, Deputy-Governor, and Directors, to be choſen from Year to Year. And if any of them happen to deceaſe before the Ex<g ref="char:EOLhyphen"/>piration of his Time, then the Members and the Company, qualified as aforeſaid, ſhall elect in Manner above-mentioned, another fit Perſon, in the Room, and to the Office of the
+<pb n="4" facs="tcp:101128:3"/>Deceaſed, who is to officiate for the Remainder of his Time. And further, the Governor or his Deputy, and any Three of the Directors, or any Five of the Directors, without the Go<g ref="char:EOLhyphen"/>vernor or his Deputy, may, as often as they ſee Cauſe, ſum<g ref="char:EOLhyphen"/>mon a Meeting of the Adventurers, qualified as ſaid is; at which Meeting, by Majority of Votes to be given, as ſaid is, the Governor or his Deputy, or any of the Directors for the Time, not exceeding Two Directors at one Meeting, may be diſplaced and removed, for any Miſcarriage or Inſufficiency in his Office. To which Sentence, the Perſon removed is abſo<g ref="char:EOLhyphen"/>lutely to acquieſce, without Gainſaying, and another to be choſen in his Room and Place, as aforeſaid, to continue till the next general Election; and the Governor, Deputy-Go<g ref="char:EOLhyphen"/>vernor, Directors, or any ſeven of them, their <hi>Quorum</hi> fore<g ref="char:EOLhyphen"/>ſaid, may meet together at any convenient Place, for the Ma<g ref="char:EOLhyphen"/>nagement of the Affairs of the ſaid Bank; and the ſaids Ad<g ref="char:EOLhyphen"/>venturers, at any General Meeting that ſhall happen to be ap<g ref="char:EOLhyphen"/>pointed, ſhall have Power to require the Payment of any further Part of the Subſcriptions, than the Ten <hi>per Cent.</hi> above-mentioned, at ſuch Time as they ſhall think fit. And in caſe any of the Adventurers ſhall refuſe, or neglect to pay in their Proportion appointed by the ſaid General Meeting, then he ſhall forfeit, to the Uſe and Behoof of the ſaid joint Stock, whatever he had before paid in to the ſaid Company; and no Governor, Deputy-Governor, or Director, ſhall be capable of, or continue in their ſaid reſpective Offices, unleſs they have the reſpective Sums above-mentioned in their own Right, and ſo long as they have the ſame, and no longer; but upon the Diminution of the ſaids Sums, their Offices are to de<g ref="char:EOLhyphen"/>termine, and others to be choſen at a General Meeting, as aforeſaid, in their Places: And the ſaid Governor, Deputy-Governor, and Directors, are to ſwear at their Entry to their reſpective Offices, the Oath following. <hi>I A. B. Do ſwear, that the Sum of <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> of the Stock of the Governor, and Company of the Bank of</hi> Scotland, <hi>doth at this Time, belong to me in my own Right, and not in Truſt: And that in the Office of <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> I
+<pb n="5" facs="tcp:101128:3"/>will be equal to all Perſons, and give my beſt Advice, for the Support of the Bank of</hi> Scotland; <hi>and in the ſaid Office, honeſtly demean myſelf to the beſt of my Skill.</hi> And this Oath, the firſt Governor ſhall take before the Lord Chancel<g ref="char:EOLhyphen"/>lor, or any other of the Officers of State, and then ſhall have Power to adminiſtrate the ſame to his Deputy and Directors. And the next Governor and Directors ſhall ſwear the ſame at their Entry, as ſaid is, before a General Meeting of the Com<g ref="char:EOLhyphen"/>pany, certifying any who ſhall neglect to ſwear at his En<g ref="char:EOLhyphen"/>try, or within Twenty Days thereafter, his Place ſhall be void, and another ſhall be elected to it: And the Governor, or Deputy-Governor; with the Directors or their <hi>Quorum,</hi> may chooſe a Theſaurer, Secretary, and other Officers, for the Affairs of the ſaid Company, who are to give their Oaths <hi>de fideli</hi> before the Governor, or his Deputy, or any Two of the Directors; and may be removed from the ſaid Of<g ref="char:EOLhyphen"/>fices, at the Pleaſure of a General Meeting: <hi>Providing al<g ref="char:EOLhyphen"/>ways,</hi> That neither the Governor, Deputy-Governor, or any of the Directors, may be choſen to any of the ſaids inferior Offices. <hi>And</hi> it is further hereby <hi>Statute</hi> and <hi>Ordained,</hi> That it ſhall be lawful for the ſaid Governor and Company, to lend upon real or perſonal Security, any Sum or Sums, and to receive Annual rent for the ſame at Six <hi>per cent.</hi> as ſhall be ordinary for the Time: As alſo, That if the Perſon borrowing, as ſaid is, ſhall not make Payment at the Term agreed upon with the Company, then it ſhall be lawful for the Governor and Company, to ſell and diſpoſe of the Secu<g ref="char:EOLhyphen"/>rity or Pledge, by a publick Roup, for the moſt that can be got, for Payment to them of the Principal, Annual rents and reaſonable Charges, and returning the Overplus to the Perſon who gave the ſaid Security or Pledge. And it is further here<g ref="char:EOLhyphen"/>by <hi>Enacted,</hi> That the foreſaid Company, and Members, thereof, or major Part of them, aſſembled at any General Meeting, may make and conſtitute ſuch By-laws and Ordi<g ref="char:EOLhyphen"/>nances, as to them ſhall ſeem neceſſary and convenient, for the Good of the Company, and under ſuch Penalties, as ſhall be therein contained; providing that the ſaids By-laws and
+<pb n="6" facs="tcp:101128:4"/>Ordinances, be not contrary to, (but conſiſtent with the Laws of the Kingdom.) And for aſcertaining how the ſaid joint Stock and Shares thereof, with all the Lands, Houſes, or other Eſtate thereto belonging, may be aſſigned or trans<g ref="char:EOLhyphen"/>ferred: It is hereby <hi>Statute</hi> and <hi>Ordained,</hi> That there be conſtantly kept a Book or Regiſter, by the ſaid Governor and Directors, where all the foreſaid Aſſignments ſhall be entred, and ſubſcribed by both the Party aſſigning, and the Party to whom the Aſſignment is made, in Token of his Acceptance; and that ſuch Aſſignments ſo ſubſcribed, ſhall make full, com<g ref="char:EOLhyphen"/>pleat, and abſolute Rights, and no other ſhall be good, ex<g ref="char:EOLhyphen"/>cepting that any Perſon having Intereſt in the ſaid Company, may diſpoſe of the ſame by latter Will or Teſtament, which ſhall be a valid and compleat Tranſmiſſion, in Favours of the Perſon to whom the Diſpoſition is made, upon the entring and recording ſo much of the ſaid latter Will, as relates to the ſaid Stock in the Books of the ſaid Company, without Neceſſity of Confirmation or further Formality whatſoever. And it is hereby further <hi>Statute,</hi> That no Dividend ſhall be made, ſave out of the Intereſt or Product ariſing out of the joint Stock, and by the Conſent of the Adventurers in a General Meeting. And for the better Encouragement of the ſaid Com<g ref="char:EOLhyphen"/>pany and Adventurers; it is hereby <hi>Statute,</hi> That the joint Stock of the ſaid Bank continuing in Money, ſhall be free from all publick Burden to be impoſed upon Money, for the Space of Twenty one Years after the Date hereof: And that during this Space, it ſhall not be leiſome to any other Per<g ref="char:EOLhyphen"/>ſons to enter into, and ſet up a diſtinct Company of Bank within this Kingdom, beſides theſe Perſons allenarly, in whoſe Favours this Act is granted. And ſicklike, it is here<g ref="char:EOLhyphen"/>by <hi>Declared,</hi> That ſummar Execution by Horning, ſhall proceed upon Bills or Tickets, drawn upon, or granted by, or to, and in Favours of this Bank, and the Managers and Admi<g ref="char:EOLhyphen"/>niſtrators thereof for the Time, and Proteſts thereon, in the ſame Manner, as is appointed to paſs upon Proteſts of foreign Bills, by the 20th <hi>Act, Parl.</hi> 1681. K. <hi>Ch.</hi> II. And ſicklike, That no Suſpenſion paſs of any Charge, (for Sums lent by this
+<pb n="7" facs="tcp:101128:4"/>Bank or to the ſame,) but upon Diſcharge or Conſignation of the Sums charged for allenaaly. <hi>And further,</hi> for preventing the breaking of the ſaid joint Stock and Company, contrary to the Deſign thereof: It is hereby <hi>Declared,</hi> That the Sums of the foreſaid Subſcriptions and Shares, may only be con<g ref="char:EOLhyphen"/>veyed and tranſmitted by the Owners to others, who ſhall be<g ref="char:EOLhyphen"/>come Partners of the Company in their Place, in Manner a<g ref="char:EOLhyphen"/>bovementioned, or by Adjudication, or other legal Convey<g ref="char:EOLhyphen"/>ance, in Favours of one Perſon allenarly, who in like Manner ſhall ſucceed to be a Partner in his Predeceſſor's Place, ſo that the foreſaids Sums of Subſcriptions may neither be taken out of the Stock, nor parcelled amongſt more Perſons by legal Diligence in any Sort, to the diminiſhing or diſturbing the Stock of the ſaid Company, and good Order thereof. <hi>And ſicklike,</hi> for the greater Security, and more convenient manag<g ref="char:EOLhyphen"/>ing of the ſaid Bank or joint Stock, it is hereby <hi>Statute and Ordained,</hi> That in caſe it ſhall happen any of the Members, Partners or Subſcribers, or other Proprietors of any Part of the ſaid Stock, to be Regiſtrate at the Horn, or to commit any Crime puniſhable by Confiſcation, or Forfeiture of his ſaid Share and Proportion of the ſaid joint Stock and Profit there<g ref="char:EOLhyphen"/>of due at the Time; then and in that Caſe it ſhall be lawful for the Governor, Deputy Governor, and Directors, or their <hi>Quorum</hi> foreſaid, to expoſe, by publick Roup, ſuch Shares and Profit thereof to any other Perſon who ſhall bid the higheſt Price therefore, after ſuch legal Intimations to be made for that Effect by the ſaid Governour, Deputy-Gover<g ref="char:EOLhyphen"/>nor, Directors or their <hi>Quorum,</hi> as is preſcribed by the Act of Parliament for the Sale of Bankrupts Lands; and the Price ariſing by the ſaid Roup, to be made forthcoming by the ſaid Company to the Creditors, Heirs, or others ſucceeding in the Right of the Party ſo denounced or forfeit. <hi>Provid<g ref="char:EOLhyphen"/>ing always,</hi> as it is hereby expreſly <hi>Enacted, Provided</hi> and <hi>Declared,</hi> That it ſhall not be lawful nor allowable for the ſaid Company, Governor, Deputy-Governor, Directors, or Ma<g ref="char:EOLhyphen"/>nagers thereof, upon any Ground or pretence whatſoever, directly or indirectly, to uſe, exerce, or follow any other
+<pb n="8" facs="tcp:101128:5"/>Commerce, Traffick, or Trade with the joint Stock to be imployed in the ſaid Bank, or any Part thereof, or Profits ariſing therefrae, excepting the Trade of lending and bor<g ref="char:EOLhyphen"/>rowing Money upon Intereſt, and negotiating Bills of Ex<g ref="char:EOLhyphen"/>change allenarly and no other. <hi>Providing alſo,</hi> Likeas it is hereby expreſly <hi>Provided, Enacted and Declared,</hi> That in caſe the Governor, Deputy-Governor, Directors or other Managers of the ſaid Company, ſhall at any Time happen to purchaſe for the Uſe and Behoof of the ſaid Company any Lands, Rents, or other Heritage belonging to his Majeſty, His Heirs and Succeſſors, or ſhall advance or lend to His Majeſty, His Heirs or Succeſſors, any Sums of Money in borrowing or by Way of Anticipation upon any Part, Branch or Fund of the ordinar Rent or Caſualites of the Crown, or of any Supply, Ceſs, Exciſe, Cuſtom, Pole-Tax, or any o<g ref="char:EOLhyphen"/>ther Supply or Taxation already granted, or which ſhall hap<g ref="char:EOLhyphen"/>pen to be granted at any Time hereafter to His Majeſty and his foreſaids, any Manner of Way whatſoever, excepting theſe Parts, Branches, or Funds of the ſaids Rents, Caſuali<g ref="char:EOLhyphen"/>ties, or Impoſitions foreſaids, upon which a Credit of Loan ſhall happen to be granted by Act of Parliament allenarly; then and in that Caſe, the ſaid Governor, Deputy-Governor, Di<g ref="char:EOLhyphen"/>rectors, or other Managers, one or more of the ſaid Company who ſhall conſent, agree to, or approve of the ſaid Purchaſe, Advance or Lending to His Majeſty and his foreſaids, and ilk ane of them ſo agreeing and approving, and being found guilty thereof according to Law, ſhall be liable for every ſuch Fault, in the Triple of the Value of the Purchaſe ſo made, or the Sums ſo lent, whereof a fifth Part ſhall belong to the In<g ref="char:EOLhyphen"/>former, and the Remainder to be diſpoſed of towards ſuch publick Uſes, as ſhall be appointed by Parliament and not o<g ref="char:EOLhyphen"/>therwiſe. <hi>And</hi> it is likewiſe hereby <hi>Provided,</hi> That all Fo<g ref="char:EOLhyphen"/>reigners who ſhall join as Partners of this Bank, ſhall there<g ref="char:EOLhyphen"/>by be and become naturalized <hi>Scots-men,</hi> to all Intents and Purpoſes whatſoever.</p>
+            <closer>Extracted forth of the Records of Parliament by <hi>TARBAT</hi> Cl. Regiſtri.</closer>
+            <pb facs="tcp:101128:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
